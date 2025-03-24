@@ -70,6 +70,14 @@ Contributions welcome! Feel free to:
 - Suggest new features or improvements
 - Report bugs or issues with the template
 
+## 💬 Community Discussions
+
+Have questions, ideas, or want to share your profile? Join the discussion:
+
+- [Share your profile](https://github.com/YourUsername/github-profile-template/discussions/categories/showcase) in the Showcase category
+- [Ask for help](https://github.com/YourUsername/github-profile-template/discussions/categories/help-support) if you're having trouble
+- [Suggest new features](https://github.com/YourUsername/github-profile-template/discussions/categories/ideas-suggestions) to improve the template
+
 ## 🔗 Resources
 
 - [GitHub Profile README Collection](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
